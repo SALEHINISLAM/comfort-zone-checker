@@ -55,7 +55,7 @@
     margin: 0px 314px;
 }
 .flowe1{
-    /* background-image: url('/images/Rectangle31.png'); */
+    background-image: url('./images/Rectangle31.png');
     height: 428px;
     width: 310px;
     background-position: bottom left;
@@ -82,7 +82,7 @@
     padding: 48px 0px 0px 0px;
 }
 .flowe2{
-    background-image: url('/images/Rectangle32.png');
+    background-image: url('./images/Rectangle32.png');
     height: 370px;
     width: 370px;
     background-size: 450px 539px;
@@ -91,7 +91,7 @@
     padding: 117px 40px 51px 40px;
 }
 .flowe3{
-    background-image: url('/images/Rectangle33.png');
+    background-image: url('./images/Rectangle33.png');
     height: 428px;
     width: 310px;
     background-position: bottom left;
