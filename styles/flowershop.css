@@ -59,7 +59,7 @@
     height: 428px;
     width: 310px;
     background-position: bottom left;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     align-items: center;
     padding: 110px 70px 0px 70px;
