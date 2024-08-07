@@ -55,6 +55,7 @@
     margin: 0px 314px;
 }
 .flowe1{
+    /* vai .. diyen cause oke file khujte age style thke ber hote hbe then img te dhukte hbe */
     background-image: url('../images/Rectangle31.png');
     height: 428px;
     width: 310px;
@@ -161,7 +162,7 @@
     padding: 48px 0px 0px 0px;
 }
 .background{
-    background-image: url(/images/Rectangle\ 9.png);
+    background-image: url('../images/Rectangle9.png');
     background-size: contain;
     background-repeat: no-repeat;
     padding: 122px 287px;
